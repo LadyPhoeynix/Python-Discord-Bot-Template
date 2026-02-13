@@ -134,7 +134,7 @@ the [tags on this repository](https://github.com/kkrypt0nn/Python-Discord-Bot-Te
 
 ## Built With
 
-- [Python 3.12.9](https://www.python.org/)
+- [Python 3.12.12](https://www.python.org/)
 
 ## License
 
